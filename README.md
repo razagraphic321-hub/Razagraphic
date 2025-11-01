@@ -107,8 +107,8 @@
 
   <section class="content">
     <h2>Contact Me</h2>
-    <p>Email: <a href="mailto:ayanraza@example.com">ayanraza@example.com</a></p>
-    <p>Instagram: <a href="https://instagram.com/" target="_blank">@ayanraza</a></p>
+    <p>Email: <a href="mailto:razagraphic321@gmail,com">ayanraza@example.com</a></p>
+    <p>Instagram: <a href="https://instagram.com/" target="_blank">raza_graphic321</a></p>
   </section>
 
   <footer>© 2025 Ayan Raza | All rights reserved.</footer>
